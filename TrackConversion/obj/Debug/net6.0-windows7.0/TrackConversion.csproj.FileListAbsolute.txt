@@ -1,0 +1,17 @@
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\bin\Debug\net6.0-windows7.0\TrackConversion.exe
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\bin\Debug\net6.0-windows7.0\TrackConversion.deps.json
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\bin\Debug\net6.0-windows7.0\TrackConversion.runtimeconfig.json
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\bin\Debug\net6.0-windows7.0\TrackConversion.dll
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\bin\Debug\net6.0-windows7.0\TrackConversion.pdb
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.frmMain.resources
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.csproj.GenerateResource.cache
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.dll
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\refint\TrackConversion.dll
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.pdb
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\TrackConversion.genruntimeconfig.cache
+C:\Users\windo\OneDrive\Documents\Development\TrackConversion\TrackConversion\obj\Debug\net6.0-windows7.0\ref\TrackConversion.dll

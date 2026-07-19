@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260405130250_afbc4100",
+  "CapturedUtc": "2026-04-05T13:02:50.1498814+00:00",
+  "NormalisedContentHash": "CEA3D2912CEB60D60BDC2955AB659482A6ABC5CED33B921D7E9EC3D2EFCA2CD0",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "TrackConversion",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TrackConversion\\TrackConversion\\TrackConversion.csproj",
+    "SolutionKey": "E5A8942CD6268AA2",
+    "SourceIdentity": {
+      "IdentityKey": "E5A8942CD6268AA2",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TrackConversion\\TrackConversion\\TrackConversion.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TrackConversion\\TrackConversion",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "D8FA249F27DA15CA",
+      "ProjectName": "TrackConversion",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\TrackConversion\\TrackConversion\\TrackConversion.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net6.0-windows7.0",
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}
