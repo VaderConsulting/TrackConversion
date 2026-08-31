@@ -2,6 +2,8 @@
 
 A .NET 6 Windows Forms utility that converts **TracPlus** and **RockAIR** GPS tracking CSV export files into standard **GPX 1.1** format, ready for import into Garmin BaseCamp, Google Earth, QGIS, or any GPX-compatible mapping tool.
 
+**Source last updated:** 2022-11-13
+
 **Initiated:** 2022-11-13 · **Framework:** .NET 6 Windows Forms · **Solution:** `TrackConversion.sln`
 
 ---
