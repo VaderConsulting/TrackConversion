@@ -41,3 +41,8 @@ TracPlus and RockAIR are satellite/cellular tracking systems used in aviation, m
 2. Click **Add Input File** and select one or more `.csv` files
 3. Optionally tick **Reverse** and/or **Zero Invalid Data**
 4. Click **Convert**
+
+## Requirements
+
+- Visual Studio 2022, .NET 6.0, .NET 7.0
+
