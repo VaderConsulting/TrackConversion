@@ -2,7 +2,7 @@
 
 A .NET 6 Windows Forms utility that converts TracPlus and RockAIR GPS tracking CSV exports into GPX 1.1. Output is ready for Garmin BaseCamp, Google Earth, QGIS, or any GPX-compatible mapping tool.
 
-**Source last updated:** 2022-11-13
+**Source last updated:** 2022-11-15
 **Initiated:** 2022-11-13 · **Framework:** .NET 6 Windows Forms · **Solution:** `TrackConversion.sln`
 
 ---
@@ -41,7 +41,25 @@ TracPlus and RockAIR are satellite/cellular tracking systems used in aviation, m
 3. Optionally tick **Reverse** and/or **Zero Invalid Data**
 4. Click **Convert**
 
+## Solution structure
+
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `TrackConversion` (`TrackConversion/TrackConversion.csproj`) | C# | WinForms exe (net6.0-windows) | `frmMain` file picker and options; `TracPlus-RockAIR.cs` CSV parsing and GPX writer |
+
+## How to open
+
+Open `TrackConversion.sln` in Visual Studio 2022 and run the `TrackConversion` project. NuGet restores CsvHelper on first build.
+
 ## Requirements
 
-- Visual Studio 2022, .NET 6.0, .NET 7.0
+- Visual Studio 2022, .NET 6.0 SDK (Windows desktop workload)
+- CsvHelper 30.0.1 (NuGet)
 
+## Attribution and provenance
+
+Working copy from my Development folder `TrackConversion`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
